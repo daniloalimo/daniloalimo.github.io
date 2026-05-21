@@ -1,0 +1,2 @@
+# app-ads.txt for Google Play Console
+# Adicione aqui suas configurações de anúncios do Google Play Console
