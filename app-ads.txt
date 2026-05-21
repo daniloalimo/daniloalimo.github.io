@@ -1,2 +1,1 @@
-# app-ads.txt for Google Play Console
-# Adicione aqui suas configurações de anúncios do Google Play Console
+google.com, pub-8280555347449401, DIRECT, f08c47fec0942fa0
